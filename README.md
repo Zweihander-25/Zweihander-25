@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm Akniou Moahmed Achraf
 
-<!--
-**Zweihander-25/Zweihander-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumediene).
 
-Here are some ideas to get you started:
+## 🧠 What I Know
+- 💻 Programming: **C**, **Java**, **Assembly**, **Python**
+- 🛢️ Databases: **Oracle SQL**
+- 🛠️ Currently learning more about systems, data structures, and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚔️
+I love **swords**
+
+## 📫 Let's Connect
+- Email: `aknioumohamedachraf@gmail.com`
+
+## 📌 Projects
+Check out my repositories to see what I’ve been building
