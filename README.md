@@ -8,7 +8,7 @@
 - 🛠️ Currently learning more about systems, data structures, and algorithms
 
 ## ⚔️
--⚔️ I love **swords**
+- ⚔️ I love **swords**
 
 ## 📫 Let's Connect
 - Email: `aknioumohamedachraf@gmail.com`
