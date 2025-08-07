@@ -3,7 +3,7 @@
 🎓 I'm a 2nd-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumediene).
 
 ## 🧠 What I Know
-- 💻 Programming: **C**, **Java**, **Assembly**, **Python**
+- 💻 Programming: **C**, **Java**, **Assembly**, **Javascript**, **Python**, **html**, **Css**
 - 🛢️ Databases: **Oracle SQL**
 - 🛠️ Currently learning more about systems, data structures, and algorithms
 
